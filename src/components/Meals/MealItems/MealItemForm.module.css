@@ -5,8 +5,8 @@
 .form button {
     font: inherit;
     cursor: pointer;
-    background-color: #8a2b06;
-    border: 1px solid #8a2b06;
+    background-color: var(--MealItemForm-form-a2);
+    border: 1px solid var(--MealItemForm-form-a2);
     color: white;
     padding: 0.25rem 2rem;
     border-radius: 20px;
@@ -15,6 +15,6 @@
 
 .form button:hover,
 .form button:active {
-    background-color: #641e03;
-    border-color: #641e03;
+    background-color: var(--MealItemForm-form-e0);
+    border-color: var(--MealItemForm-form-e0);
 }

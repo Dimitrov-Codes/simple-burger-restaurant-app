@@ -1,0 +1,16 @@
+:root {
+    --Cart-cart-items-a2: #8a2b06;
+    --Cart-cart-items-a1: #5a1a01;
+    --CartItem-cart-item-a2: #8a2b06;
+    --CartItem-cart-item-summary: #363636;
+    --CartItem-cart-item-actions: #363636;
+    --Header-header-a2: #8a2b06;
+    --HeaderCartButton-button-d1: #4d1601;
+    --HeaderCartButton-button-c0: #2c0d00;
+    --HeaderCartButton-button-b9: #b94517;
+    --HeaderCartButton-button-c: #92320c;
+    --MealsSummary-summary-color: #383838;
+    --MealItem-meal-ad5: #ad5502;
+    --MealItemForm-form-a2: #8a2b06;
+    --MealItemForm-form-e0: #641e03;
+}
